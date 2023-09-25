@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
