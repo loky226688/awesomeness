@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+fix predict with class filter
