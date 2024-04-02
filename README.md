@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
