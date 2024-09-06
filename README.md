@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Elaborate Train and Predict mode docs arguments (#8137)
